@@ -107,7 +107,7 @@ image
       hsl(277, 64%, 61%),
       hsl(277, 64%, 61%)
     ),
-    url("./images/image-header-mobile.jpg");
+    url("./image-header-mobile.jpg");
   background-blend-mode: overlay;
   background-size: cover;
   background-repeat: no-repeat;
@@ -121,7 +121,7 @@ image
         hsl(277, 64%, 61%),
         hsl(277, 64%, 61%)
       ),
-      url("./images/image-header-desktop.jpg");
+      url("./image-header-desktop.jpg");
   }
 }
 /* 
