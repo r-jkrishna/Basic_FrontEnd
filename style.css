@@ -175,7 +175,7 @@ attribution
 */
 .attribution {
   color: whitesmoke;
-  position: fixed;
+  position: relative;
   bottom: 16px;
   left: 1rem;
   font-size: 00.625rem;
